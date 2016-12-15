@@ -21,14 +21,4 @@ public class UserMealWithExceed {
         this.calories = calories;
         this.exceed = exceed;
     }
-<<<<<<< Updated upstream
-
-    public UserMealWithExceed (UserMeal usermeal, boolean exceed){
-        this.dateTime = usermeal.getDateTime();
-        this.description = usermeal.getDescription();
-        this.calories = usermeal.getCalories();
-        this.exceed = exceed;
-    }
-=======
->>>>>>> Stashed changes
 }

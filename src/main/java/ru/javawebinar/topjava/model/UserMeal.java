@@ -30,8 +30,6 @@ public class UserMeal {
     public int getCalories() {
         return calories;
     }
-<<<<<<< Updated upstream
-
     @Override
     public String toString() {
         return "UserMeal{" +
@@ -40,6 +38,4 @@ public class UserMeal {
                 ", calories=" + calories +
                 '}';
     }
-=======
->>>>>>> Stashed changes
 }
